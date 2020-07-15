@@ -15,5 +15,5 @@
 6. Code to describe and show a strategy for imputing missing data is in  R code/Final_code directory *imputing_ missing_values.R* is the file code.  
 3. The code file *Histogram of the total number of steps taken each day_2.R* for make a histogram of the total number of steps taken each day and in the Figures/Final_figures directory *Figure 3.png* is the result of running the code file after the missing values are imputed.  
 4. *panelPlot.R* is a panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends the Figures/Final_figures directory *Figure 4.png* is the result of running the code file. 
-4. All of the R code needed to reproduce the results (numbers, plots, etc.) in the report *PA1_template.Rmd*.  
+4. All of the R code needed to reproduce the results (numbers, plots, etc.) in the report *PA1_template.Rmd* in Text folder.  
 
